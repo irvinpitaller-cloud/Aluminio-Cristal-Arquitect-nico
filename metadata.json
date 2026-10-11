@@ -1,0 +1,6 @@
+{
+  "name": "AlumVidrio Pro | Carpintería de Aluminio y Cotizador Técnico",
+  "description": "Servicios especializados en carpintería de aluminio y vidrio arquitectónico, comparador multimarca (Cuprum, Indalum, Eurovent, Saint-Gobain), galería de proyectos y cotizador con despiece milimétrico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
